@@ -24,7 +24,7 @@ I wrote this custom tools panel, for Premiere, to automate the workflow in our s
   - MXF: automatically export broadcast video file with the right preset, folder structure and add info to the render log file.
   - Dropdown Menu: automatically export any other video file with the right preset, folder structure and add info to the render log file.
 - Release Date
-  - Date, Now, Wednesday, Thursday, Tomorrow: replace all after effects cilps in a sequnce to the right release message.
+  - Date, Now, Wednesday, Thursday, Tomorrow: replace all after effects clips in a sequnce to the right release message.
 - Aspect Ratio
   - 1x1: automatically resize sequence to 1x1 aspect ratio and replace all after effects clips to be the right format.
   - 9x16: automatically resize sequence to 9x16 aspect ratio and replace all after effects clips to be the right format.
