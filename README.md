@@ -30,8 +30,8 @@ I wrote this custom tools panel, for Premiere, to automate the workflow in our s
   - 9x16: automatically resize sequence to 9x16 aspect ratio and replace all after effects clips to be the right format.
   - 16x9: automatically resize sequence to 16x9 aspect ratio and replace all after effects clips to be the right format.
 - Audio
-  - R128 Mixdown: render all audio to one file with R128 loudness level.
-  - Export Online + TV Mix: render audio files for online or broadcast use.
+  - R128 Mixdown: render all audio of selected sequence to one file with R128 loudness level and re-import into sequence.
+  - Export Online + TV Mix: render all selected audio files for online or broadcast use.
 - Administration
-  - Edit Log: open log file for editing
-  - Update Logs: update all log files
+  - Edit Log: open project log file for editing
+  - Update Logs: update all project log files
