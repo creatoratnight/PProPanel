@@ -1,8 +1,6 @@
 # PProPanel
-<img align="right" src="https://creatoratnight.com/github/PProPanel.png">
-
 *Custom Tools Panel for Adobe Premiere Pro*
-
+<img align="right" src="https://creatoratnight.com/github/PProPanel.png">
 I wrote this custom tools panel, for Premiere, to automate the workflow in our studio.
 
 - Project
