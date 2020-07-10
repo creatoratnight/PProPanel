@@ -3,7 +3,7 @@ Custom Tools Panel for Adobe Premiere Pro
 
 I wrote this custom tools panel, for Premiere, to automate the workflow in our studio.
 
-![Image of PProPanel](https://creatoratnight.com/github/PProPanel.png)
+<img align="right" src="https://creatoratnight.com/github/PProPanel.png">
 
 - Project
   - Create Folders: create default project folder structure in the project folder.
